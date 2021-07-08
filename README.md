@@ -15,8 +15,6 @@
   * Java 11
   * Maven 3.x
 ## How to run
-- Run in IDE 
-  * Open the MainPageTest & Run all tests
 - Command Line
   * on command line navigate to project folder
   * run `mvn test`
